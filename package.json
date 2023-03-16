@@ -1,0 +1,15 @@
+{
+  "name": "exer3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aila Mae M. Laron",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "validator": "^13.9.0"
+  }
+}
